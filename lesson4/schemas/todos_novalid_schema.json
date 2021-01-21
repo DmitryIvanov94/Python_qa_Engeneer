@@ -1,0 +1,5 @@
+{
+  "type": "string",
+  "items": {"$ref": "file:lesson4/schemas/todo_schema.json"},
+  "additionalProperties": false
+}
