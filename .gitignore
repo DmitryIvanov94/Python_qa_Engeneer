@@ -1,4 +1,6 @@
 .pytest_cache/
-.idea/
 .trial_lessons/
 .trial_tests/
+.idea/
+venv/
+venv.bak/
