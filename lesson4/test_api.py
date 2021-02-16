@@ -124,16 +124,16 @@ def test_filtering_title_positive(session, base_url, filter, value):
         assert json_resp[0]['userId'] == 1
         assert json_resp[0]['id'] == 4
         assert json_resp[0]['completed']
-    if filter == 'userId':
+    elif filter == 'userId':
         assert len(json_resp) == 20
-    if filter == 'id':
+    elif filter == 'id':
         assert json_resp[0]['title'] \
                == 'laboriosam mollitia et enim ' \
                   'quasi adipisci quia provident illum'
         assert json_resp[0]['userId'] == 1
         assert json_resp[0]['id'] == 5
         assert json_resp[0]['completed'] is False
-    if filter == 'completed':
+    else:
         assert len(json_resp) == 110
 
 
