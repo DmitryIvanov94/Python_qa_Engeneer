@@ -1,0 +1,264 @@
+2021-02-18 18:04:35,680 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_login started
+2021-02-18 18:04:35,680 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-18 18:04:36,964 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-18 18:04:39,512 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-18 18:04:39,565 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-18 18:04:39,614 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input username
+2021-02-18 18:04:39,614 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-18 18:04:39,655 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-18 18:04:39,702 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input password
+2021-02-18 18:04:39,702 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('css selector', 'button')
+2021-02-18 18:04:41,628 - [INFO] - AdminLoginPage - admin_login_page.py.login - Click submit button
+2021-02-18 18:04:41,703 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-18 18:04:41,703 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_login finished
+
+2021-02-18 18:04:41,707 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_logout started
+2021-02-18 18:04:41,707 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-18 18:04:45,158 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-18 18:04:46,594 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-18 18:04:46,632 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-18 18:04:46,668 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input username
+2021-02-18 18:04:46,669 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-18 18:04:46,708 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-18 18:04:46,744 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input password
+2021-02-18 18:04:46,745 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('css selector', 'button')
+2021-02-18 18:04:48,290 - [INFO] - AdminLoginPage - admin_login_page.py.login - Click submit button
+2021-02-18 18:04:48,290 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('xpath', "//ul[@class='nav navbar-nav navbar-right']/li[2]/a")
+2021-02-18 18:04:49,498 - [INFO] - AdminLoginPage - admin_login_page.py.logout - Click logout button
+2021-02-18 18:04:49,546 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-18 18:04:49,547 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_logout finished
+
+2021-02-18 18:04:49,550 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_forgot_password started
+2021-02-18 18:04:49,550 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-18 18:04:50,845 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-18 18:04:52,486 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('xpath', "//div[@class='panel-body']/form/div[@class='form-group'][2]/span[@class='help-block']/a")
+2021-02-18 18:04:53,164 - [INFO] - AdminLoginPage - admin_login_page.py.forgot_password - Click forgotten pass button
+2021-02-18 18:04:53,210 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-18 18:04:53,211 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_forgot_password finished
+
+2021-02-18 18:06:02,544 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_login started
+2021-02-18 18:06:02,544 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-18 18:06:03,770 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-18 18:06:07,126 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-18 18:06:07,168 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-18 18:06:07,215 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input username
+2021-02-18 18:06:07,215 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-18 18:06:07,260 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-18 18:06:07,305 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input password
+2021-02-18 18:06:07,306 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('css selector', 'button')
+2021-02-18 18:06:08,794 - [INFO] - AdminLoginPage - admin_login_page.py.login - Click submit button
+2021-02-18 18:06:08,871 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-18 18:06:08,871 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_login finished
+
+2021-02-18 18:06:08,876 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_logout started
+2021-02-18 18:06:08,876 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-18 18:06:10,203 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-18 18:06:11,819 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-18 18:06:11,867 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-18 18:06:11,917 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input username
+2021-02-18 18:06:11,918 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-18 18:06:11,964 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-18 18:06:12,011 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input password
+2021-02-18 18:06:12,011 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('css selector', 'button')
+2021-02-18 18:06:13,642 - [INFO] - AdminLoginPage - admin_login_page.py.login - Click submit button
+2021-02-18 18:06:13,643 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('xpath', "//ul[@class='nav navbar-nav navbar-right']/li[2]/a")
+2021-02-18 18:06:14,815 - [INFO] - AdminLoginPage - admin_login_page.py.logout - Click logout button
+2021-02-18 18:06:14,856 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-18 18:06:14,856 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_logout finished
+
+2021-02-18 18:06:14,859 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_forgot_password started
+2021-02-18 18:06:14,860 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-18 18:06:15,986 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-18 18:06:19,505 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('xpath', "//div[@class='panel-body']/form/div[@class='form-group'][2]/span[@class='help-block']/a")
+2021-02-18 18:06:20,129 - [INFO] - AdminLoginPage - admin_login_page.py.forgot_password - Click forgotten pass button
+2021-02-18 18:06:20,231 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-18 18:06:20,231 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_forgot_password finished
+
+2021-02-19 14:22:11,236 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_login started
+2021-02-19 14:22:11,236 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 14:22:12,502 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-19 14:22:16,042 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 14:22:16,091 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 14:22:16,140 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input username
+2021-02-19 14:22:16,140 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 14:22:16,188 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 14:22:16,230 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input password
+2021-02-19 14:22:16,230 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('css selector', 'button')
+2021-02-19 14:22:17,747 - [INFO] - AdminLoginPage - admin_login_page.py.login - Click submit button
+2021-02-19 14:22:17,850 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-19 14:22:17,850 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_login finished
+
+2021-02-19 14:22:17,854 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_logout started
+2021-02-19 14:22:17,855 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 14:22:21,054 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-19 14:22:22,569 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 14:22:22,610 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 14:22:22,649 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input username
+2021-02-19 14:22:22,649 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 14:22:22,690 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 14:22:22,731 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input password
+2021-02-19 14:22:22,731 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('css selector', 'button')
+2021-02-19 14:22:24,266 - [INFO] - AdminLoginPage - admin_login_page.py.login - Click submit button
+2021-02-19 14:22:24,266 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('xpath', "//ul[@class='nav navbar-nav navbar-right']/li[2]/a")
+2021-02-19 14:22:25,844 - [INFO] - AdminLoginPage - admin_login_page.py.logout - Click logout button
+2021-02-19 14:22:25,898 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-19 14:22:25,899 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_logout finished
+
+2021-02-19 14:22:25,903 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_forgot_password started
+2021-02-19 14:22:25,904 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 14:22:27,210 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-19 14:22:30,695 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('xpath', "//div[@class='panel-body']/form/div[@class='form-group'][2]/span[@class='help-block']/a")
+2021-02-19 14:22:31,358 - [INFO] - AdminLoginPage - admin_login_page.py.forgot_password - Click forgotten pass button
+2021-02-19 14:22:31,413 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-19 14:22:31,413 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_forgot_password finished
+
+2021-02-19 14:26:01,452 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_login started
+2021-02-19 14:26:01,452 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 14:26:02,643 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-19 14:26:06,156 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 14:26:06,195 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 14:26:06,235 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input username
+2021-02-19 14:26:06,235 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 14:26:06,272 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 14:26:06,310 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input password
+2021-02-19 14:26:06,310 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('css selector', 'button')
+2021-02-19 14:26:07,848 - [INFO] - AdminLoginPage - admin_login_page.py.login - Click submit button
+2021-02-19 14:26:07,891 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-19 14:26:07,891 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_login finished
+
+2021-02-19 14:26:07,892 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_logout started
+2021-02-19 14:26:07,892 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 14:26:09,127 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-19 14:26:12,461 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 14:26:12,500 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 14:26:12,544 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input username
+2021-02-19 14:26:12,544 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 14:26:12,590 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 14:26:12,630 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input password
+2021-02-19 14:26:12,630 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('css selector', 'button')
+2021-02-19 14:26:14,229 - [INFO] - AdminLoginPage - admin_login_page.py.login - Click submit button
+2021-02-19 14:26:14,229 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('xpath', "//ul[@class='nav navbar-nav navbar-right']/li[2]/a")
+2021-02-19 14:26:15,559 - [INFO] - AdminLoginPage - admin_login_page.py.logout - Click logout button
+2021-02-19 14:26:15,616 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-19 14:26:15,616 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_logout finished
+
+2021-02-19 14:26:15,618 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_forgot_password started
+2021-02-19 14:26:15,618 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 14:26:20,962 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-19 14:26:24,326 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('xpath', "//div[@class='panel-body']/form/div[@class='form-group'][2]/span[@class='help-block']/a")
+2021-02-19 14:26:25,053 - [INFO] - AdminLoginPage - admin_login_page.py.forgot_password - Click forgotten pass button
+2021-02-19 14:26:25,109 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-19 14:26:25,109 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_forgot_password finished
+
+2021-02-19 14:27:17,632 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_login started
+2021-02-19 14:27:17,632 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 14:27:18,910 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-19 14:27:21,015 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 14:27:21,059 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 14:27:21,130 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input username
+2021-02-19 14:27:21,130 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 14:27:21,181 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 14:27:21,226 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input password
+2021-02-19 14:27:21,226 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('css selector', 'button')
+2021-02-19 14:27:23,030 - [INFO] - AdminLoginPage - admin_login_page.py.login - Click submit button
+2021-02-19 14:27:23,084 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-19 14:27:23,084 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_login finished
+
+2021-02-19 14:27:23,087 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_logout started
+2021-02-19 14:27:23,087 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 14:27:24,273 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-19 14:27:27,681 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 14:27:27,720 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 14:27:27,757 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input username
+2021-02-19 14:27:27,757 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 14:27:27,796 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 14:27:27,835 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input password
+2021-02-19 14:27:27,835 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('css selector', 'button')
+2021-02-19 14:27:29,469 - [INFO] - AdminLoginPage - admin_login_page.py.login - Click submit button
+2021-02-19 14:27:29,470 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('xpath', "//ul[@class='nav navbar-nav navbar-right']/li[2]/a")
+2021-02-19 14:27:30,699 - [INFO] - AdminLoginPage - admin_login_page.py.logout - Click logout button
+2021-02-19 14:27:30,745 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-19 14:27:30,746 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_logout finished
+
+2021-02-19 14:27:30,749 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_forgot_password started
+2021-02-19 14:27:30,749 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 14:27:31,915 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-19 14:27:39,395 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('xpath', "//div[@class='panel-body']/form/div[@class='form-group'][2]/span[@class='help-block']/a")
+2021-02-19 14:27:40,101 - [INFO] - AdminLoginPage - admin_login_page.py.forgot_password - Click forgotten pass button
+2021-02-19 14:27:40,146 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-19 14:27:40,146 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_forgot_password finished
+
+2021-02-19 14:44:06,515 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_login started
+2021-02-19 14:44:06,516 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 14:44:07,725 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-19 14:44:09,413 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 14:44:09,454 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 14:44:09,499 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input username
+2021-02-19 14:44:09,499 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 14:44:09,542 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 14:44:09,582 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input password
+2021-02-19 14:44:09,582 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('css selector', 'button')
+2021-02-19 14:44:11,160 - [INFO] - AdminLoginPage - admin_login_page.py.login - Click submit button
+2021-02-19 14:44:11,262 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-19 14:44:11,262 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_login finished
+
+2021-02-19 15:24:11,830 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_login started
+2021-02-19 15:24:11,830 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 15:24:13,110 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-19 15:24:19,447 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 15:24:30,269 - [ERROR] - AdminLoginPage - base.py.find_element - Can't find element by locator: ('id', 'input-username')
+2021-02-19 15:24:30,354 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-19 15:24:30,354 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_login finished
+
+2021-02-19 15:24:30,359 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_logout started
+2021-02-19 15:24:30,359 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 15:24:31,507 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-19 15:24:34,993 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 15:24:35,033 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-username')
+2021-02-19 15:24:35,072 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input username
+2021-02-19 15:24:35,072 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 15:24:35,119 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('id', 'input-password')
+2021-02-19 15:24:35,162 - [INFO] - AdminLoginPage - admin_login_page.py.login - Input password
+2021-02-19 15:24:35,162 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('css selector', 'button')
+2021-02-19 15:24:36,706 - [INFO] - AdminLoginPage - admin_login_page.py.login - Click submit button
+2021-02-19 15:24:36,706 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('xpath', "//ul[@class='nav navbar-nav navbar-right']/li[2]/a")
+2021-02-19 15:24:37,908 - [INFO] - AdminLoginPage - admin_login_page.py.logout - Click logout button
+2021-02-19 15:24:37,981 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-19 15:24:37,981 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_logout finished
+
+2021-02-19 15:24:37,986 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_forgot_password started
+2021-02-19 15:24:37,986 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 15:24:39,178 - [INFO] - AdminLoginPage - base.py.go_to - Opening url: https://demo.opencart.com/admin/
+2021-02-19 15:24:44,570 - [INFO] - AdminLoginPage - base.py.find_element - Search element: ('xpath', "//div[@class='panel-body']/form/div[@class='form-group'][2]/span[@class='help-block']/a")
+2021-02-19 15:24:45,245 - [INFO] - AdminLoginPage - admin_login_page.py.forgot_password - Click forgotten pass button
+2021-02-19 15:24:45,298 - [INFO] - BrowserLogger - conftest.py.finish - Browser chrome closed
+2021-02-19 15:24:45,298 - [INFO] - BrowserLogger - conftest.py.finish - ===> Test test_forgot_password finished
+
+2021-02-19 15:42:46,969 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_login started
+2021-02-19 15:42:46,970 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 15:42:47,973 - [INFO] - selenium.webdriver.remote.remote_connection - remote_connection.py.__init__ - Could not connect to port 4444 on host 127.0.0.1
+2021-02-19 15:42:47,973 - [INFO] - selenium.webdriver.remote.remote_connection - remote_connection.py.__init__ - Could not get IP address for host: 127.0.0.1
+2021-02-19 15:42:48,979 - [WARNING] - urllib3.connectionpool - connectionpool.py.urlopen - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03DE42F0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /wd/hub/session
+2021-02-19 15:42:49,980 - [WARNING] - urllib3.connectionpool - connectionpool.py.urlopen - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03DE44D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /wd/hub/session
+2021-02-19 15:42:50,983 - [WARNING] - urllib3.connectionpool - connectionpool.py.urlopen - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03DE45B0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /wd/hub/session
+2021-02-19 15:42:52,262 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_logout started
+2021-02-19 15:42:52,262 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 15:42:53,262 - [INFO] - selenium.webdriver.remote.remote_connection - remote_connection.py.__init__ - Could not connect to port 4444 on host 127.0.0.1
+2021-02-19 15:42:53,262 - [INFO] - selenium.webdriver.remote.remote_connection - remote_connection.py.__init__ - Could not get IP address for host: 127.0.0.1
+2021-02-19 15:42:54,263 - [WARNING] - urllib3.connectionpool - connectionpool.py.urlopen - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x04271490>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /wd/hub/session
+2021-02-19 15:42:55,266 - [WARNING] - urllib3.connectionpool - connectionpool.py.urlopen - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x042716D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /wd/hub/session
+2021-02-19 15:42:56,270 - [WARNING] - urllib3.connectionpool - connectionpool.py.urlopen - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x042715F0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /wd/hub/session
+2021-02-19 15:42:57,511 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_forgot_password started
+2021-02-19 15:42:57,511 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 15:42:58,512 - [INFO] - selenium.webdriver.remote.remote_connection - remote_connection.py.__init__ - Could not connect to port 4444 on host 127.0.0.1
+2021-02-19 15:42:58,512 - [INFO] - selenium.webdriver.remote.remote_connection - remote_connection.py.__init__ - Could not get IP address for host: 127.0.0.1
+2021-02-19 15:42:59,516 - [WARNING] - urllib3.connectionpool - connectionpool.py.urlopen - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x041ADF70>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /wd/hub/session
+2021-02-19 15:43:00,519 - [WARNING] - urllib3.connectionpool - connectionpool.py.urlopen - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x041ADAB0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /wd/hub/session
+2021-02-19 15:43:01,524 - [WARNING] - urllib3.connectionpool - connectionpool.py.urlopen - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x041AD9D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /wd/hub/session
+2021-02-19 16:09:32,990 - [INFO] - BrowserLogger - conftest.py.browser - ===> Test test_login started
+2021-02-19 16:09:32,990 - [INFO] - BrowserLogger - conftest.py.browser - Browser chrome started
+2021-02-19 16:09:33,993 - [INFO] - selenium.webdriver.remote.remote_connection - remote_connection.py.__init__ - Could not connect to port 4444 on host 127.0.0.1
+2021-02-19 16:09:33,993 - [INFO] - selenium.webdriver.remote.remote_connection - remote_connection.py.__init__ - Could not get IP address for host: 127.0.0.1
+2021-02-19 16:09:34,998 - [WARNING] - urllib3.connectionpool - connectionpool.py.urlopen - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x04421C70>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /wd/hub/session
+2021-02-19 16:09:36,002 - [WARNING] - urllib3.connectionpool - connectionpool.py.urlopen - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x04681070>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /wd/hub/session
+2021-02-19 16:09:37,004 - [WARNING] - urllib3.connectionpool - connectionpool.py.urlopen - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x046810D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /wd/hub/session
